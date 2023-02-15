@@ -1,7 +1,8 @@
 ![alt text](https://github.com/sdlc100602/profileDecos/blob/main/sdlc.PNG)
 <br>
 **Uni student**, currently going through their **sophomore year**, having a somewhat *enjoyable* time <br>
-Aspiring **Front-end developer** <br> <br>
+Aspiring **Front-end developer** <br>
+Some details that you may be interested to read about my aspirations and current items that I can use!
 ```java
   public class SDLC {
     public static void toolsThatICanUse() {
