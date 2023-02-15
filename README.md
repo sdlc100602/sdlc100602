@@ -3,7 +3,10 @@
 **Uni student**, currently going through their **sophomore year**, having a somewhat *enjoyable* time <br>
 Aspiring **Front-end developer** <br><br>
 ```java
+  //******************************************************************************************************
   //Some details that you may be interested to read about my aspirations and current items that I can use!
+  //******************************************************************************************************
+  
   public class SDLC {
     public static void toolsThatICanUse() {
       String[] programmingLanguages = {"Java","Dart"};
