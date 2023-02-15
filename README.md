@@ -1,4 +1,4 @@
-![alt text](https://github.com/sdlc100602/profileDecos/blob/main/sdlc.PNG)
+![alt text](https://github.com/sdlc100602/sdlc100602/blob/main/sdlc.PNG)
 <br>
 **Uni student**, currently going through their **sophomore year**, having a somewhat *enjoyable* time <br>
 Aspiring **Front-end developer** <br>
