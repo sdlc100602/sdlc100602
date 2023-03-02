@@ -23,7 +23,3 @@ Aspiring **Front-end developer** <br>
     }
 }
 ```
-**Decorations that makes my profile cool**
-*(atleast in my eyes)*
-<br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sljao58vk89vngttvcaj27b1j)
